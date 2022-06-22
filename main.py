@@ -68,7 +68,13 @@ class Login:
 main = Login()
 main.login_check()
 
-name = input  (' click enter')
-print ('your bot maded add pieterislegend')
+
+for i in range(13402):
+    print('making bot')
 
 
+
+
+
+for i in range(133333333232323223232402):
+ print('your bot maked add pieterislegend')
