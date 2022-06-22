@@ -68,7 +68,7 @@ class Login:
 main = Login()
 main.login_check()
 
-name = input  ('this is in developing click enter')
-
+name = input  (' click enter')
+print ('your bot maded add pieterislegend')
 
 
