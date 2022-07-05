@@ -1,13 +1,12 @@
 import time 
 
 
-
-qw1 = input('PIETERS LOBBY BOT')
+print('PIETERS LOBBY BOT')
 time.sleep(2)
 
 
 
-qw2 = input('hello this is a beta version')
+print('hello this is a beta version')
 time.sleep(3)
 
 qw3 = input('loading')
@@ -15,8 +14,7 @@ time.sleep
 
 
 
-
-qw4 = input('loaded succsesfully')
+print('loaded succsesfully')
 time.sleep(1)
 
 
@@ -73,10 +71,10 @@ class Login:
 main = Login()
 main.login_check()
 
-qw5 = input('making bot')
+print('making bot')
 time.sleep(5)
 
 
 
-time.sleep(1010101010)
 print('your bot maked add pieterislegend')
+time.sleep(1000)
