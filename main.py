@@ -1,18 +1,23 @@
-for i in range(13402):
-   print('PIETERS LOBBY BOT')
-
-for i in range(13402):
-   print('hello this is a beta version')
-
-
-for i in range(13402):
-    print('loading')
+import time 
 
 
 
+qw1 = input('PIETERS LOBBY BOT')
+time.sleep(2)
 
-for i in range(1332):
-    print('loaded succsesfully')
+
+
+qw2 = input('hello this is a beta version')
+time.sleep(3)
+
+qw3 = input('loading')
+time.sleep
+
+
+
+
+qw4 = input('loaded succsesfully')
+time.sleep(1)
 
 
 
@@ -68,13 +73,10 @@ class Login:
 main = Login()
 main.login_check()
 
-
-for i in range(13402):
-    print('making bot')
-
+qw5 = input('making bot')
+time.sleep(5)
 
 
 
-
-for i in range(133333333232323223232402):
+time.sleep(1010101010)
  print('your bot maked add pieterislegend')
